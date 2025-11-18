@@ -1,8 +1,4 @@
 # 💻 Mini-Projet Interpréteur Assembleur (INF404)
-
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/votre-repo)
-[![Langage](https://img.shields.io/badge/langage-C-blue)](https://github.com/votre-repo)
-
 > Un mini-interpréteur écrit en C permettant d’analyser, interpréter et exécuter un langage assembleur simplifié.
 
 ---
@@ -69,3 +65,4 @@ fin:
 ## 📜 License
 
 Ce projet est sous licence MIT.
+
